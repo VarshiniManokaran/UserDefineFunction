@@ -1,17 +1,14 @@
+
 public class noArgwithRetu {
     public static void main(String[] args) {
-      
-      System.out.println(sample.display());
-
+       String c=(sampls.Sound("i am walking", " i am talking"));
+       System.out.println(c);
+     
     }
 }
-
-class sample{
- static  String display(){
-  String Animal="cat,rat,dog,elephant";
-  return Animal;
-
-
+class sampls{
+  static String Sound(String Walk,String talk){
+  return talk;
   }
 }
 
